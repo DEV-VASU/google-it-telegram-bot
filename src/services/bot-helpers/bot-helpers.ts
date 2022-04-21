@@ -20,9 +20,9 @@ export class BotHelpers implements IBotHelpers {
         {
           type: 'article',
           id: '0',
-          title: 'Sorry 😕. Nothing was found.',
+          title: 'Nothing was found',
           input_message_content: {
-            message_text: 'Sorry 😕. Nothing was found.',
+            message_text: 'Nothing was found',
           },
         },
       ],
@@ -42,9 +42,9 @@ export class BotHelpers implements IBotHelpers {
       {
         type: 'article',
         id: '0',
-        title: 'We are sorry 😥. Error ocurred.',
+        title: 'Error ocurred',
         input_message_content: {
-          message_text: 'We are sorry 😥. Error ocurred.',
+          message_text: 'Error ocurred',
         },
       },
     ]);
